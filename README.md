@@ -11,18 +11,6 @@ This is the backend for a library store application. It provides APIs for user a
 
 ## API Endpoints
 
-- **Auth**
-  - POST `/auth/register` - Register a new user.
-  - POST `/auth/verify-otp` - Verify OTP.
-  - POST `/auth/login` - Login user.
-
-- **Books**
-  - GET `/books` - Get all books.
-  - POST `/books` - Add a new book.
-
-- **Orders**
-  - POST `/orders` - Create a new order.
-  - GET `/orders` - Get all orders.
 
 ## License
 
